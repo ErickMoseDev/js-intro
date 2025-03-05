@@ -35,3 +35,15 @@ console.log(sentence);
 // the rules of creating variables
 // camelCase
 // snake_case
+
+const _one = '';
+const one = 1;
+const $one = 1;
+
+const idimaber = 'Hello';
+const ohoro = 'Mambo vipi';
+const nakiBono = 'How are you doing';
+const chamgei = 'Hello';
+const mulembe = 'Hello from Luhya land';
+const wantindata = 'Hello';
+const this_is_snake_casing = 'Snake casing';
